@@ -1,5 +1,7 @@
 # Hearthstone
 
+**Summary:**
+
 This is a JSON playground application. Improving networking skills.
 
 **The application offers the following features:**
